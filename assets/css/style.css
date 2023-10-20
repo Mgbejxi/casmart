@@ -15,7 +15,7 @@
   --black: hsl(0, 0%, 0%);
   --blue: hsl(194, 97%, 49%);
   --pink: hsl(329, 93%, 49%);
-  --gold: hsl(50, 94%, 73%);
+  --gold: hsl(8, 94%, 50%);
 
   /**
    * typography
@@ -126,11 +126,16 @@ button { transition: var(--transition-1); }
 
 h3 > a { color: inherit; }
 
-.h1,
+.h1 {
+  color: var(--white);
+  font-weight: var(--fw-600);
+}
+
+
 .h2,
 .h3,
 .h4 {
-  color: var(--white);;
+  color: var(--pink);
   font-weight: var(--fw-600);
 }
 
