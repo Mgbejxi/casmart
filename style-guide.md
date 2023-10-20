@@ -22,14 +22,19 @@ Ionicon
 ## Colors
 
 ``` css
---middle-blue-green: hsl(176, 35%, 63%);
---sonic-silver: hsl(0, 0%, 44%);
---eerie-black: hsl(0, 0%, 9%);
---ocean-green: hsl(148, 45%, 58%);
---candy-pink: hsl(356, 65%, 63%);
---cultured: hsl(0, 0%, 96%);
---white: hsl(0, 0%, 100%);
---black: hsl(0, 0%, 0%);
+
+  --middle-blue-green: hsl(176, 35%, 63%);
+  --sonic-silver: hsl(0, 0%, 44%);
+  --eerie-black: hsl(0, 0%, 9%);
+  --ocean-green: hsl(148, 45%, 58%);
+  --candy-pink: hsl(60, 86%, 53%);
+  --cultured: hsl(0, 0%, 96%);
+  --white: hsl(0, 0%, 100%);
+  --black: hsl(0, 0%, 0%);
+  --blue: hsl(194, 97%, 49%);
+  --pink: hsl(329, 93%, 49%);
+  --gold: hsl(43, 90%, 49%);
+
 ```
 
 ## Typography
